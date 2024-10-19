@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    text-align: center;
+    font-family: open Sans;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+#colorPickerContainer {
+    height: 100vh;
+}
+
+#button1 {
+    background-color: #e0e0e0;
+    padding: 18px;
+    border-radius: 13px;
+}
+
+#button2 {
+    background-color: #6fcf97;
+    padding: 18px;
+    border-radius: 13px;
+}
+
+#button3 {
+    background-color: #56ccf2;
+    padding: 18px;
+    border-radius: 13px;
+}
+
+#button4 {
+    background-color: #bb6bd9;
+    padding: 18px;
+    border-radius: 13px;
+}
+
+.p-bg-color {
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+    font-weight: bold;
+}
